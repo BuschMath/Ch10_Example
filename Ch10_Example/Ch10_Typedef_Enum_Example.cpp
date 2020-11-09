@@ -2,7 +2,7 @@
 
 using namespace std;
 
-typedef double SCALAR;
+typedef float SCALAR;
 
 enum colors
 {
