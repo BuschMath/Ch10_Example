@@ -16,6 +16,9 @@ int main()
 	example point;
 
 	point.f_point = 3.14;
+
+	cout << point.f_point << endl;
+
 	point.i_point = 42;
 
 	cout << point.f_point << " " << point.i_point << endl << endl;
